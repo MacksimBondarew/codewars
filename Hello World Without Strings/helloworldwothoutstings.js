@@ -4,3 +4,4 @@ function helloWorld() {
     return String.fromCharCode(...chars);
 }
 helloWorld()
+console.log('*'.repeat(5).length);
