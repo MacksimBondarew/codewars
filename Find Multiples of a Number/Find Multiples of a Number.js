@@ -8,4 +8,3 @@ function findMultiples(integer, limit) {
     return array;
 }
 findMultiples(5, 25);
-findMultiples(1, 2);
